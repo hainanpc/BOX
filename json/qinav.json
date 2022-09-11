@@ -1,19 +1,19 @@
 // 网站改版修正
 {
-  "author": "20220903",
-  "name": "0855影视",
+  "author": "20220911",
+  "name": "qinav",
   "url": "https://www.qinav.com",
   "tihuan": "cnzz.com",
   "User": "User-Agentart/2.14 (dart:io)",
   "shouye": "1",
 
-  "fenlei": "国产$/search/100053_#日韩$/search/116524_#最新$/home/0_#动漫$/vod/show/id/dongman/page/#综艺$/vod/show/id/zongyi/page/",
+  "fenlei": "国产$/search/100053_#日韩$/search/116524_#最新$/home/0_#热门$/home/1_#推荐$/home/2_#",
   "houzhui": ".html",
 
    "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
-  "jiequshuzuqian": "class=\"hl-list-item",
+  "jiequshuzuqian": "ul",
   "jiequshuzuhou": "</div>",
   "tupianqian": "data-original=\"",
   "tupianhou": "\"",
