@@ -73,7 +73,6 @@
     {"key":"csp_biubiu_蓝莓影视","name":"🧁蓝莓影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E8%93%9D%E8%8E%93%E5%BD%B1%E8%A7%86.json"},
     {"key":"csp_biubiu_奇优影院ns","name":"👔奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.json"},
     {"key":"csp_biubiu_yekong","name":"🌃夜空高清","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%A4%9C%E7%A9%BA%E9%AB%98%E6%B8%85.json"},
-    {"key":"csp_xpath_酷狗MV","name":"🐶酷狗MV","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%85%B7%E7%8B%97MV.json"},
     {"key":"csp_XBiubiu_金眼影视","name":"🌟金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"},
     {"key":"csp_XBiubiu_UM影视","name":"🦋UM影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/UM%E5%BD%B1%E8%A7%86.json"},
     {"key":"csp_XBiubiu_Nike影视","name":"🌹Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/Nike%E5%BD%B1%E8%A7%86.json"},
@@ -137,7 +136,6 @@
     {"name":"GGTV自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url="},
     {"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
     {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
-    {"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url="},
     {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}}],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
