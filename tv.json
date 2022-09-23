@@ -103,6 +103,7 @@
     {"key":"MBO 影视","name":"🍹MBO 影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
     {"key":"大米星球","name":"大米星球","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/m0_50462542/TVBox/-/raw/main/json/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"},
     {"key":"0855","name":"0855","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/m0_50462542/TVBox/-/raw/main/json/0855.json"}],
+    {"key":"973","name":"973影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/m0_50462542/TVBox/-/raw/main/json/973.json"}],
 
 
 "spider":"https://gitcode.net/m0_50462542/TVBox/-/raw/main/jar/custom_spider.jar","wallpaper":"http://www.kf666888.cn/api/tvbox/img",
