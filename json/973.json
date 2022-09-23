@@ -7,10 +7,10 @@
   "shouye": "1",
 
   "fenlei": "电影$/fenye/v---#-/剧集$/vod/show/id/tv/page/#福利$/vod/show/id/tp/page/#动漫$/vod/show/id/dongman/page/#综艺$/vod/show/id/zongyi/page/",
-  "houzhui": "空",
+  "houzhui": "index.html",
 
-  "shifouercijiequ": "0",
-  "jiequqian": "空",
+  "shifouercijiequ": "1",
+  "jiequqian": "stui-vodlist__box",
   "jiequhou": "空",
   "jiequshuzuqian": "class=\"hl-list-item",
   "jiequshuzuhou": "</div>",
@@ -51,7 +51,7 @@
   "zhuyanqian": "主演：</em>",
   "zhuyanhou": "简介：</em>",
   "juqingqian": "简介：</em>",
-  "juqinghou": "0855影视为您提供",
+  "juqinghou": "</span>",
 
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
