@@ -1,5 +1,5 @@
 📺｜新闻合集,#genre#
-海南综合,http://stream3.hnntv.cn/xwpd/sd/live.m3u8
+海南综合,http://stream3.hnntv.cn/xwpd/sd/live.m3u8?_upt=6f4a389e1664084171
 海口综合,http://p2.weizan.cn/11763520/218605596729758130/live.m3u8
 CCTV1,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/index.m3u8
