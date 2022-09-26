@@ -105,7 +105,7 @@
     {"key":"0855","name":"0855","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/m0_50462542/TVBox/-/raw/main/json/0855.json"}],
 
 
-"spider":"https://gitcode.net/m0_50462542/TVBox/-/raw/main/jar/custom_spider.jar","wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+"spider":"https://gitcode.net/bd/v/-/raw/main/jar/999.png","wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9tMF81MDQ2MjU0Mi9UVkJveC8tL3Jhdy9tYWluL2xpdmUvMDgzMHpiLnR4dA=="]}]}],
 
 "parses":[
