@@ -1,7 +1,7 @@
 {
 "spider":"https://gitcode.net/m0_50462542/TVBox/-/raw/main/jar/custom_spider.jar",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vY2VvY2VudGVyL2Nlby9yYXcvbWFzdGVyLzA5MDMuanNvbg=="]}]}], 
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2hhaW5hbnBjL0JPWC9ibG9iL21haW4vbGl2ZS8wOTAzLmpzb24="]}]}], 
 "sites":[
     {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://神器每日推送.tk/json/bilibili.json"},
     {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://神器每日推送.tk/json/Biliych.json"},
